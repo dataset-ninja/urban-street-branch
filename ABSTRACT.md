@@ -4,7 +4,7 @@ Authors introduce the **Branch** component for instance segmentation within The 
 
 ## Classification:
 
-- Branch 1485 images, 13 classes (1.4G) ([available on DatasetNinja]())
+- Branch 1485 images, 13 classes (1.4G) (currentd dataset includes classification tags)
 - Trunk 7675 images, 29 classes (6.4G) ([available on DatasetNinja]())
 - Leaf 21127 images, 50 classes (13.6G) ([available on DatasetNinja]())
 - Tree 4804 images, 23 classes (4.3G) ([available on DatasetNinja]())
@@ -20,14 +20,16 @@ Authors introduce the **Branch** component for instance segmentation within The 
 
 ## Detection:
 
-- Leaf 9763 images, 39 classes (11G)
+- Leaf 9763 images, 39 classes (11G) ([available on DatasetNinja]())
 
 <img src="https://ytt917251944.github.io/dataset_jekyll/assets/img/seg/segmentation-branch.png" alt="image" width="800">
 
 <span style="font-size: smaller; font-style: italic;">Examples of Urban Street: Branch (segmenation task).</span>
 
+## About Tree Dataset of Urban Street
+
 Annotations were performed in a fine-grained manner by using polygons (bitmap in supervisely) to outline individual objects. Authors assessed the performance of various vision algorithms on different classification and segmentation tasks, including tree species identification and instance segmentation. 
 
 The proposed dataset was designed to capture urban street trees with subtropical or temperate monsoon climates in China. Our data collection and annotation methods were carefully created to capture the high variability of street trees. From February to October 2022, tens of thousands of tree images were acquired with mobile devices, covering spring, summer, fall and winter in 10 cities.
 
-Similar to Cityscapes (Cordts et al., 2016) and ADE20K (Zhou et al., 2019), authors divide each organ dataset into separate training (*train*), validation (*val*) and test (*test*) sets. 
+Similar to Cityscapes (Cordts et al., 2016) ([available on DatasetNinja](https://datasetninja.com/cityscapes)) and ADE20K (Zhou et al., 2019) ([available on DatasetNinja](https://datasetninja.com/ade20k)), authors divide each organ dataset into separate training (*train*), validation (*val*) and test (*test*) sets. 
