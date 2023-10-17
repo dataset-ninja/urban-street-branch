@@ -22,7 +22,7 @@ Authors introduce the **Branch** component for instance segmentation within The 
 
 - Leaf 9763 images, 39 classes (11G) ([available on DatasetNinja](https://datasetninja.com/urban-street-leaf))
 
-<img src="https://ytt917251944.github.io/dataset_jekyll/assets/img/seg/segmentation-branch.png" alt="image" width="800">
+<img src="https://ytt917251944.github.io/dataset_jekyll/assets/img/seg/segmentation-branch.png" alt="image" width="400">
 
 <span style="font-size: smaller; font-style: italic;">Examples of Urban Street: Branch (segmenation task).</span>
 
