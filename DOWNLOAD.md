@@ -1,6 +1,6 @@
 Dataset **Urban Street: Branch** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/X/F/de/y44MpXOPXhYB0oCxfPU5us96tgue1TJ79raHjBe0rHucnXAnestYo21r6Rlpx3bAlb4nug2OXf27ARNHQhw6jCZTBc1qjRmDpJM2rBYGY6lQzSzeaXGgFdHYbj9R.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
